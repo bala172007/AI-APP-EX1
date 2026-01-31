@@ -87,7 +87,7 @@ agent.run_agent(cycles=6)
 print("Final Performance Score:", agent.performance)
 ```
 # OUTPUT:
-<img width="805" height="781" alt="image" src="https://github.com/user-attachments/assets/54bf924b-64c5-4881-b3da-97a1b255f58d" />
+<img width="1919" height="680" alt="image" src="https://github.com/user-attachments/assets/9f108027-cbcd-4469-9a35-8a5abe420f7f" />
 
 # RESULT:
  PEAS description for the given AI problem and develop an AI agent was observed successfully.
